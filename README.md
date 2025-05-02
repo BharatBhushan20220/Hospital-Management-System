@@ -124,5 +124,3 @@ Frontend (React/Angular) ⟷ Backend (Spring Boot REST API) ⟷ Database (MySQL/
 
 ---
 
-Let me know if you want a detailed implementation for any module or a diagram for the architecture or ERD.
-
